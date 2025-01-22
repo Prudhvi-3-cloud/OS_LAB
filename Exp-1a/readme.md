@@ -8,11 +8,11 @@
 ### DATE TIME COMMAND OUTPUT
 ![date time command output](date+%D.png)
 ### DATE TIME COMMAND MANUAL
-![date time command manual](mdate1.png)
+![date time command manual](mdate.png)
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date+%H.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate2.png)
+![date year command manual](mdate.png)
 ### DATE HOUR COMMAND OUTPUT
 ![date hour command output](date+%T.png)
 ### DATE HOUR COMMAND MANUAL
