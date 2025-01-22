@@ -10,11 +10,11 @@
 ### DATE TIME COMMAND MANUAL
 ![date time command manual](mdate1.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](date+%T.png)
+![date year command output](date+%H.png)
 ### DATE YEAR COMMAND MANUAL
 ![date year command manual](mdate2.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](date+%Y.png)
+![date hour command output](date+%T.png)
 ### DATE HOUR COMMAND MANUAL
 ![date hour command manual](mdate3.png)
 ### CAL COMMAND OUTPUT
