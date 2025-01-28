@@ -124,5 +124,5 @@ name to search in
 ### Output of the code for grep
 ![ Program output in console](grep.png)
 
-### Result: Thus the study and execution of UNIX commands like cp,ls,grep has been
-completed successfully
+### Result: Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
+
