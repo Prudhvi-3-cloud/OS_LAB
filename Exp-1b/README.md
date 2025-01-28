@@ -1,7 +1,7 @@
-## Simulate UNIX commands like cp, ls, grep, etc
+&gt; ## Simulate UNIX commands like cp, ls, grep, etc
 ### Program Statemnt: To simulate UNIX command like cp,ls,grep
 ### Source Code:
-### Cp simulate command Source code
+&gt; ### Cp simulate command Source code
 ```c
 #include &lt;stdio.h&gt;
 #include &lt;stdlib.h&gt;
@@ -42,7 +42,7 @@ return EXIT_SUCCESS;
 7) It writes once the entire source file has been copied, it prints a succes manager
 
 ### Output of the code for cp
-![ Program output in console](copy.png)
+![ Program output in console](cp.png)
 
 &gt; ### Simulation code for ls command
 ```c
