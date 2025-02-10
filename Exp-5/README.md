@@ -147,7 +147,7 @@ This program demonstrates concurrent execution in C using the `pthread` library.
 
 
 ## OUTPUT:
-![output](op.png)
+![output](thread.png)
 
 ---
 ## **Conclusion**
