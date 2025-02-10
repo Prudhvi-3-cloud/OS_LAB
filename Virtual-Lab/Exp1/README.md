@@ -269,6 +269,6 @@ Average Turnaround Time: 14.67
 This interpretation explains how the program works and how the results can be analyzed effectively.
 ---
 ## Executed Output
-![ LFS Executed output ](lop1.png)
-![ SRJF Executed Output](lop2.png)
+![ LFS Executed output ](LFS.png)
+![ SRJF Executed Output](SRJF.png)
 
