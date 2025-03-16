@@ -159,4 +159,4 @@ int main() {
 }
 ```
 # Output
-![Page Replacement Algorithms](pra.png)
+![Page Replacement Algorithms](output.png)
