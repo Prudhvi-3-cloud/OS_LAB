@@ -69,5 +69,5 @@ int main() {
 }
 ```
 # Output:
-![ page1](pg1.png)
-![ page1](pg2.png)
+![ page1](exp9.jpg)
+
