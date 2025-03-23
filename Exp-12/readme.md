@@ -72,4 +72,4 @@ int main() {
 }
 ```
 # OUTPUT:
-![ dead lock occur situation ](dl.png)
+![ dead lock occur situation ](exp12.jpg)
