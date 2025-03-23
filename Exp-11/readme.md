@@ -65,4 +65,4 @@ int main() {
 ```
 # OUTPUT:
 
-![ output of the exp11 ](db1.png)
+![ output of the exp11 ](exp11.jpg)
