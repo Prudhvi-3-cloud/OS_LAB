@@ -145,5 +145,5 @@ int main() {
 >  2. use ctrl+c to terminate
 
 # OuTPUT
-![ Consumer ](con.png)
-![ Producer ](pro.png)
+![ Producer consumer problem ](producer.png)
+
